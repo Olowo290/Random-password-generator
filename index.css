@@ -16,13 +16,13 @@ h4{
 }
 p{
     display: inline-block;
-    width: 150px;
+    width: 130px;
     height: 25px;
     padding: 5px 15px;
     background:#273549;
     color: #55F991;
     font-family: Inter;
-    font-weight: 500;
+    font-weight: 300;
     text-align: center;
     margin-bottom: 80px;
 }
